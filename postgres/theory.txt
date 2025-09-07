@@ -1,0 +1,7 @@
+LIfe cycle of SQL data base 
+1. Bring up your DB [ a) either localy b) buy db ]
+2. define schemas 
+3. put datas
+4. update schema
+
+
