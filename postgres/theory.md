@@ -64,6 +64,9 @@ step-3  get connect with the server using 1. your terminal (need to install psql
 `ALTER TABLE table_name RENAME target_col_name TO new_target_col_name;`
 
 
+# FOR DML READ THIS 
+https://chatgpt.com/share/68c1e719-d10c-800a-aae0-04cc7fad6bc2
+
 
 
  
