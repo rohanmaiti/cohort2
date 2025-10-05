@@ -68,5 +68,12 @@ step-3  get connect with the server using 1. your terminal (need to install psql
 https://chatgpt.com/share/68c1e719-d10c-800a-aae0-04cc7fad6bc2
 
 
+# Learned IN clause 
+```
+SELECT * FROM student 
+WHERE name in ('Rohan', 'Rahul', 'Ankan')
+```
+### this will return rows where name column's value are either 'rohan, or rahul or ankan' 
+
 
  
